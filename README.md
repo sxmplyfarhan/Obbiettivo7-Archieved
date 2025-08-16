@@ -1,6 +1,19 @@
-# [Obbiettivo 7](https://obbiettivo7.netlify.app/) - Archived - School project December 21 2024.
+# [Obbiettivo 7](https://obbiettivo7.netlify.app/) (Archived school project)
 
+This is the archived version of a school website I built in 2024 with a friend. The design, text, and Tailwind-based styling are preserved exactly as they were, right down to inline classes and all-Tailwind setup.
 A website about the 2030 goals, In particularly Goal n7. That offers Ensure access to affordable, reliable, sustainable and modern energy for all.
+
+---
+
+## Structure
+├── index.html
+└── pictures
+    ├── image2.png
+    ├── image3.png
+    ├── image4.png
+    ├── image5.png
+    ├── image6.png
+    └── image7.png
 
 ---
 
@@ -13,19 +26,34 @@ A website about the 2030 goals, In particularly Goal n7. That offers Ensure acce
 
 ---
 
+# Questions and Answers.
+
 ## How was the website made?
 
 Originally the website was for a school project. We didnt want to use google slides so we made a website.
 Me and my friend Azan made the structure and the code. The other 3 made the text and gave us support.
 We used HTML and TAIlWIND. 
 
+---
+
 ## Howd you get the website working and keeping it online?
 
 Well this is where we ran in to an issue. We didnt have a server so we hosted the website on netlify.app. Yes a free website hoster.
 
+---
+
+## Why this version?
+
+- To preserve the original visual layout—no redesign, just recall and retype.
+- As a snapshot of my skills *back then* (tailwind-heavy, one-file style).
+- To contrast later in the repo with a clean, revamped version (`main` or `v2` branch).
 
 ---
 
-## Any plans for this Archieved project?
+When I remade it, the result will be a cleaner, component-based version with better structure, animations, and maintainable code. Feel free to explore both to see how much I’ve grown.
 
-Yes actually. im planning on giving it another shot in the future. For now it shall remain archieved. The text,and the main idea of the website will surely stay the same but everything else wll be changed.
+---
+
+## How to view
+
+Open `index.html` in your browser like any static site—no build steps, no frameworks, just a snapshot of older days.
