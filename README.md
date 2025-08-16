@@ -5,3 +5,7 @@ A website about the 2030 goals, In particularly Goal n7. That offers Ensure acce
 ---
 
 ## Screenshots 
+
+![Screenshot](screenshots/Screenshot1.png)
+![Screenshot](screenshots/Screenshot2.png)
+![Screenshot](screenshots/Screenshot3.png)
