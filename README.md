@@ -1,4 +1,4 @@
-# (Obbiettivo 7)[https://obbiettivo7.netlify.app/] - Archived - School project December 21 2024.
+# [Obbiettivo 7](https://obbiettivo7.netlify.app/) - Archived - School project December 21 2024.
 
 A website about the 2030 goals, In particularly Goal n7. That offers Ensure access to affordable, reliable, sustainable and modern energy for all.
 
