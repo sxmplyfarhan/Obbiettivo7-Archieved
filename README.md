@@ -7,7 +7,7 @@ A website about the 2030 goals, In particularly Goal n7. That offers Ensure acce
 
 ## Structure
 - index.html
-- **pictures**:
+- **/pictures**:
   - image2.png
   - image3.png
   - image4.png
